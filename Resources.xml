@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Template>
+  <Catagory1>
+    <Catagory1-1>
+      <Catagory1-1-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-1-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-1-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-1-1-1-1-1 value="~/Images/Panda/Coloring/PandaColoring1.png">
+            </Catagory1-1-1-1-1-1>
+          </Catagory1-1-1-1-1>
+          <Catagory1-1-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-1-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-1-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-1-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-1-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-1-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-1-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-1-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-1-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-1-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-1-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-1-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-1-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-1-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-1-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-1-1-1>       
+        <Catagory1-1-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-1-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-1-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-1-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-1-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-1-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-1-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-1-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-1-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-1-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-1-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-1-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-1-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-1-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-1-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-1-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-1-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-1-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-1-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-1-1>
+      <Catagory1-1-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-1-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-1-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-1-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-1-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-1-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-1-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-1-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-1-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-1-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-1-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-1-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-1-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-1-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-1-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-1-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-1-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-1-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-1-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-1-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-1>
+    <Catagory1-2>
+      <Catagory1-2-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-2-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-2-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-2-1-1-1-1 value="~/Images/Bear/Coloring/PandaColoring1.png">
+            </Catagory1-2-1-1-1-1>
+          </Catagory1-2-1-1-1>
+          <Catagory1-2-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-2-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-2-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-2-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-2-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-2-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-2-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-2-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-2-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-2-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-2-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-2-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-2-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-2-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-2-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-2-1-1>
+        <Catagory1-2-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-2-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-2-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-2-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-2-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-2-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-2-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-2-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-2-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-2-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-2-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-2-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-2-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-2-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-2-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-2-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-2-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-2-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-2-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-2-1>
+      <Catagory1-2-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-2-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-2-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-2-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-2-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-2-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-2-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-2-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-2-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-2-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-2-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-2-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-2-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-2-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-2-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-2-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-2-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-2-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-2-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-2-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-2>
+    <Catagory1-3>
+      <Catagory1-3-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-3-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-3-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-3-1-1-1-1 value="~/Images/Bunny/Coloring/PandaColoring1.png">
+            </Catagory1-3-1-1-1-1>
+          </Catagory1-3-1-1-1>
+          <Catagory1-3-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-3-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-3-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-3-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-3-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-3-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-3-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-3-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-3-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-3-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-3-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-3-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-3-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-3-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-3-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-3-1-1>
+        <Catagory1-3-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-3-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-3-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-3-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-3-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-3-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-3-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-3-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-3-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-3-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-3-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-3-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-3-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-3-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-3-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-3-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-3-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-3-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-3-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-3-1>
+      <Catagory1-3-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-3-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-3-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-3-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-3-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-3-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-3-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-3-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-3-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-3-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-3-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-3-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-3-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-3-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-3-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-3-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-3-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-3-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-3-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-3-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-3>
+    <Catagory1-4>
+      <Catagory1-4-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-4-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-4-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-4-1-1-1-1 value="~/Images/Dragon/Coloring/PandaColoring1.png">
+            </Catagory1-4-1-1-1-1>
+          </Catagory1-4-1-1-1>
+          <Catagory1-4-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-4-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-4-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-4-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-4-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-4-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-4-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-4-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-4-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-4-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-4-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-4-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-4-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-4-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-4-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-4-1-1>
+        <Catagory1-4-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-4-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-4-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-4-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-4-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-4-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-4-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-4-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-4-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-4-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-4-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-4-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-4-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-4-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-4-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-4-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-4-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-4-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-4-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-4-1>
+      <Catagory1-4-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-4-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-4-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-4-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-4-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-4-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-4-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-4-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-4-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-4-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-4-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-4-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-4-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-4-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-4-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-4-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-4-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-4-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-4-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-4-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-4>
+    <Catagory1-5>
+      <Catagory1-5-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-5-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-5-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-5-1-1-1-1 value="~/Images/Cat/Coloring/PandaColoring1.png">
+            </Catagory1-5-1-1-1-1>
+          </Catagory1-5-1-1-1>
+          <Catagory1-5-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-5-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-5-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-5-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-5-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-5-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-5-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-5-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-5-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-5-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-5-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-5-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-5-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-5-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-5-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-5-1-1>
+        <Catagory1-5-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-5-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-5-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-5-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-5-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-5-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-5-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-5-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-5-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-5-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-5-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-5-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-5-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-5-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-5-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-5-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-5-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-5-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-5-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-5-1>
+      <Catagory1-5-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-5-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-5-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-5-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-5-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-5-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-5-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-5-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-5-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-5-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-5-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-5-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-5-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-5-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-5-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-5-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-5-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-5-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-5-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-5-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-5>
+    <Catagory1-6>
+      <Catagory1-6-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-6-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-6-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-6-1-1-1-1 value="~/Images/Lion/Coloring/PandaColoring1.png">
+            </Catagory1-6-1-1-1-1>
+          </Catagory1-6-1-1-1>
+          <Catagory1-6-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-6-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-6-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-6-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-6-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-6-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-6-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-6-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-6-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-6-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-6-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-6-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-6-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-6-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-6-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-6-1-1>
+        <Catagory1-6-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-6-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-6-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-6-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-6-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-6-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-6-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-6-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-6-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-6-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-6-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-6-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-6-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-6-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-6-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-6-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-6-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-6-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-6-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-6-1>
+      <Catagory1-6-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-6-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-6-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-6-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-6-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-6-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-6-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-6-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-6-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-6-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-6-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-6-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-6-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-6-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-6-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-6-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-6-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-6-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-6-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-6-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-6>
+    <Catagory1-7>
+      <Catagory1-7-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-7-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-7-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-7-1-1-1-1 value="~/Images/Owl/Coloring/PandaColoring1.png">
+            </Catagory1-7-1-1-1-1>
+          </Catagory1-7-1-1-1>
+          <Catagory1-7-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-7-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-7-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-7-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-7-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-7-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-7-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-7-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-7-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-7-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-7-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-7-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-7-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-7-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-7-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-7-1-1>
+        <Catagory1-7-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-7-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-7-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-7-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-7-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-7-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-7-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-7-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-7-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-7-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-7-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-7-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-7-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-7-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-7-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-7-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-7-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-7-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-7-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-7-1>
+      <Catagory1-7-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-7-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-7-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-7-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-7-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-7-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-7-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-7-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-7-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-7-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-7-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-7-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-7-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-7-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-7-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-7-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-7-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-7-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-7-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-7-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-7>
+    <Catagory1-8>
+      <Catagory1-8-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-8-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-8-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-8-1-1-1-1 value="~/Images/DeathKid/Coloring/PandaColoring1.png">
+            </Catagory1-8-1-1-1-1>
+          </Catagory1-8-1-1-1>
+          <Catagory1-8-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-8-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-8-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-8-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-8-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-8-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-8-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-8-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-8-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-8-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-8-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-8-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-8-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-8-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-8-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-8-1-1>
+        <Catagory1-8-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-8-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-8-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-8-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-8-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-8-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-8-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-8-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-8-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-8-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-8-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-8-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-8-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-8-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-8-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-8-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-8-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-8-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-8-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-8-1>
+      <Catagory1-8-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-8-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-8-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-8-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-8-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-8-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-8-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-8-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-8-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-8-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-8-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-8-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-8-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-8-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-8-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-8-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-8-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-8-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-8-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-8-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-8>
+    <Catagory1-9>
+      <Catagory1-9-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-9-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-9-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-9-1-1-1-1 value="~/Images/Pig/Coloring/PandaColoring1.png">
+            </Catagory1-9-1-1-1-1>
+          </Catagory1-9-1-1-1>
+          <Catagory1-9-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-9-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-9-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-9-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-9-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-9-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-9-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-9-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-9-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-9-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-9-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-9-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-9-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-9-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-9-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-9-1-1>
+        <Catagory1-9-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-9-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-9-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-9-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-9-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-9-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-9-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-9-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-9-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-9-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-9-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-9-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-9-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-9-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-9-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-9-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-9-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-9-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-9-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-9-1>
+      <Catagory1-9-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-9-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-9-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-9-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-9-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-9-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-9-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-9-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-9-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-9-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-9-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-9-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-9-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-9-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-9-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-9-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-9-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-9-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-9-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-9-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-9>
+    <Catagory1-10>
+      <Catagory1-10-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-10-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-10-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-10-1-1-1-1 value="~/Images/Lamb/Coloring/PandaColoring1.png">
+            </Catagory1-10-1-1-1-1>
+          </Catagory1-10-1-1-1>
+          <Catagory1-10-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-10-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-10-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-10-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-10-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-10-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-10-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-10-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-10-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-10-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-10-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-10-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-10-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-10-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-10-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-10-1-1>
+        <Catagory1-10-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-10-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-10-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-10-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-10-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-10-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-10-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-10-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-10-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-10-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-10-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-10-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-10-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-10-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-10-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-10-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-10-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-10-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-10-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-10-1>
+      <Catagory1-10-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-10-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-10-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-10-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-10-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-10-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-10-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-10-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-10-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-10-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-10-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-10-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-10-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-10-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-10-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-10-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-10-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-10-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-10-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-10-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-10>
+    <Catagory1-11>
+      <Catagory1-11-1 value="~/Images/Eyes/XEyes.png">
+        <Catagory1-11-1-1 value="~/Images/Mouth/Animal.png">
+          <Catagory1-11-1-1-1 value="~/Images/Acessories/AngryEyeBrows.png">
+            <Catagory1-11-1-1-1-1 value="~/Images/NormalGuy/Coloring/PandaColoring1.png">
+            </Catagory1-11-1-1-1-1>
+          </Catagory1-11-1-1-1>
+          <Catagory1-11-1-1-2 value="~/Images/Acessories/AngryEyeBrows.png"/>
+          <Catagory1-11-1-1-3 value="~/Images/Acessories/Blush.png"/>
+          <Catagory1-11-1-1-4 value="~/Images/Acessories/BowTie.png"/>
+          <Catagory1-11-1-1-5 value="~/Images/Acessories/Cheeks.png"/>
+          <Catagory1-11-1-1-6 value="~/Images/Acessories/CheeksSolid.png"/>
+          <Catagory1-11-1-1-7 value="~/Images/Acessories/EmbarassedCheeks.png"/>
+          <Catagory1-11-1-1-8 value="~/Images/Acessories/Eyebrows.png"/>
+          <Catagory1-11-1-1-9 value="~/Images/Acessories/EyeShadow.png"/>
+          <Catagory1-11-1-1-10 value="~/Images/Acessories/Freckles.png"/>
+          <Catagory1-11-1-1-11 value="~/Images/Acessories/Glasses.png"/>
+          <Catagory1-11-1-1-12 value="~/Images/Acessories/HairBow.png"/>
+          <Catagory1-11-1-1-13 value="~/Images/Acessories/RosyCheeks.png"/>
+          <Catagory1-11-1-1-14 value="~/Images/Acessories/Scarf.png"/>
+          <Catagory1-11-1-1-15 value="~/Images/Acessories/StarCheeks.png"/>
+          <Catagory1-11-1-1-16 value="~/Images/Acessories/Tie.png"/>
+        </Catagory1-11-1-1>
+        <Catagory1-11-1-2 value="~/Images/Mouth/BaseMouth.png"/>
+        <Catagory1-11-1-3 value="~/Images/Mouth/Confused.png"/>
+        <Catagory1-11-1-4 value="~/Images/Mouth/Duck.png"/>
+        <Catagory1-11-1-5 value="~/Images/Mouth/Fish.png"/>
+        <Catagory1-11-1-6 value="~/Images/Mouth/Frown.png"/>
+        <Catagory1-11-1-7 value="~/Images/Mouth/FrownTeeth.png"/>
+        <Catagory1-11-1-8 value="~/Images/Mouth/Grin.png"/>
+        <Catagory1-11-1-9 value="~/Images/Mouth/Jagged.png"/>
+        <Catagory1-11-1-10 value="~/Images/Mouth/Meh.png"/>
+        <Catagory1-11-1-11 value="~/Images/Mouth/OpenMouth.png"/>
+        <Catagory1-11-1-12 value="~/Images/Mouth/OpenMouthWhite.png"/>
+        <Catagory1-11-1-13 value="~/Images/Mouth/Scowl.png"/>
+        <Catagory1-11-1-14 value="~/Images/Mouth/Sewn.png"/>
+        <Catagory1-11-1-15 value="~/Images/Mouth/Silenced.png"/>
+        <Catagory1-11-1-16 value="~/Images/Mouth/Smile.png"/>
+        <Catagory1-11-1-17 value="~/Images/Mouth/Teeth.png"/>
+        <Catagory1-11-1-18 value="~/Images/Mouth/Unconvinced.png"/>
+        <Catagory1-11-1-19 value="~/Images/Mouth/Vampire.png"/>
+        <Catagory1-11-1-20 value="~/Images/Mouth/VampireMouth.png"/>
+      </Catagory1-11-1>
+      <Catagory1-11-2 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-11-3 value="~/Images/Eyes/BaseEyes.png"/>
+      <Catagory1-11-4 value="~/Images/Eyes/AngryEyes.png"/>
+      <Catagory1-11-5 value="~/Images/Eyes/CynicalEyes.png"/>
+      <Catagory1-11-6 value="~/Images/Eyes/EyelashEyes.png"/>
+      <Catagory1-11-7 value="~/Images/Eyes/GhostEyes.png"/>
+      <Catagory1-11-8 value="~/Images/Eyes/HappyEyes.png"/>
+      <Catagory1-11-9 value="~/Images/Eyes/LeeryEyes.png"/>
+      <Catagory1-11-10 value="~/Images/Eyes/LeftWink.png"/>
+      <Catagory1-11-11 value="~/Images/Eyes/NormalEyes.png"/>
+      <Catagory1-11-12 value="~/Images/Eyes/PacManEyes.png"/>
+      <Catagory1-11-13 value="~/Images/Eyes/PlusEyes.png"/>
+      <Catagory1-11-14 value="~/Images/Eyes/ReallyEyes.png"/>
+      <Catagory1-11-15 value="~/Images/Eyes/RightWink.png"/>
+      <Catagory1-11-16 value="~/Images/Eyes/SleepyEyes.png"/>
+      <Catagory1-11-17 value="~/Images/Eyes/SquintyEyes.png"/>
+      <Catagory1-11-18 value="~/Images/Eyes/StarEyes.png"/>
+      <Catagory1-11-19 value="~/Images/Eyes/UnamusedEyes.png"/>
+      <Catagory1-11-20 value="~/Images/Eyes/WeepyEyes.png"/>
+      <Catagory1-11-21 value="~/Images/Eyes/WeepyGhostEyes.png"/>
+    </Catagory1-11>
+  </Catagory1>
+  <palettes>
+    <palette id="1" name="Cotton Candy">
+      <light>
+        <color>bbf5ff</color>
+        <color>ffdff7</color>
+        <color>ffffff</color>
+      </light>
+      <medium>
+        <color>fd9ee5</color>
+        <color>9fe5ff</color>
+      </medium>
+    </palette>
+    <palette id="2" name="Midnight">
+      <light>
+        <color>ffffff</color>
+        <color>f8fdd2</color>
+        <color>bf85fd</color>
+      </light>
+      <dark>
+        <color>bf85fd</color>
+        <color>551f8f</color>
+      </dark>
+    </palette>
+    <palette id ="3" name="Beach Lemon">
+      <light>
+        <color>d5fcfd</color>
+        <color>d5fcfd</color>
+      </light>
+      <medium>
+        <color>fdf957</color>
+        <color>68f9f2</color>
+        <color>55907e</color>
+      </medium>
+    </palette>
+    <palette id ="4" name ="California Heart">
+      <color>edef9b</color>
+      <color>efbf9b</color>
+      <color>fc8b8b</color>
+      <color>94f2fd</color>
+      <color>ffffff</color>
+    </palette>
+    <palette id="5" name="Marsh">
+      <color>b1f1d4</color>
+      <color>b9f7f8</color>
+      <color>d1f7fa</color>
+      <color>aafbbe</color>
+      <color>97e4a8</color>
+    </palette>
+    <palette id="6" name="Browns">
+      <dark>
+        <color>b6967d</color>
+        <color>cda97d</color>
+      </dark>
+      <medium>
+        <color>e5a76e</color>
+        <color>fbc08b</color>
+        <color>f8b5de</color>
+      </medium>
+
+    </palette>
+    <palette id ="7" name="Purple Sunrise">
+      <light>
+        <color>e8c2e6</color>
+        <color>fcea68</color>
+      </light>
+      <medium>
+        <color>d85cc6</color>
+        <color>dc7ce0</color>
+        <color>fdcc23</color>
+      </medium>
+    </palette>
+    <palette id ="8" name="Colorful Life">
+      <medium>
+        <color>fd8a8b</color>
+        <color>fdfb00</color>
+        <color>bbfd00</color>
+        <color>07a5fd</color>
+        <color>d200fd</color>
+      </medium>
+    </palette>
+    <palette id ="9" name ="Light  and Dark">
+      <dark>
+        <color>000000</color>
+        <color>6488d5</color>
+      </dark>
+      <medium>
+        <color>ab3370</color>
+      </medium>
+      <light>
+        <color>67d4c1</color>
+        <color>c2fdf2</color>
+      </light>
+    </palette>
+    <palette id ="10" name="Field of Flowers">
+      <medium>
+        <color>c2fdf2</color>
+        <color>ec1a23</color>
+        <color>ffffff</color>
+        <color>ec1a23</color>
+        <color>ec1a23</color>
+      </medium>
+    </palette>
+    <palette id="11" name="Red Mocha">
+      <light>
+        <color>f88874</color>
+        <color>f4a77d</color>
+      </light>
+      <medium>
+        <color>e4855f</color>
+        <color>d28861</color>
+      </medium>
+      <dark>
+        <color>fd5037</color>
+      </dark>
+    </palette>
+    <palette id="12" name="Casual Colors">
+      <medium>
+        <color>d47a79</color>
+        <color>f2b4fc</color>
+        <color>964aa4</color>
+        <color>e16074</color>
+        <color>bcd7ec</color>
+      </medium>
+    </palette>
+    <palette id="13" name="Aqua">
+      <medium>
+        <color>55b6ad</color>
+        <color>6bc5c5</color>
+        <color>3fbaa6</color>
+        <color>29e8d6</color>
+      </medium>
+      <dark>
+        <color>4b6e68</color>
+      </dark>
+    </palette>
+    <palette id="14" name="Coffee and Flowers">
+      <light>
+        <color>ffffff</color>
+        <color>fdf9a8</color>
+      </light>
+      <medium>
+        <color>fdf57f</color>
+        <color>fd7e80</color>
+      </medium>
+      <dark>
+        <color>6d4142</color>
+      </dark>
+    </palette>
+    <palette id="15" name="Light and Fluffy">
+      <light>
+        <color>f2b3fc</color>
+        <color>fce0f6</color>
+        <color>ecfbfd</color>
+        <color>fbfdde</color>
+        <color>fce4e2</color>
+      </light>
+    </palette>
+    <palette id ="16" name="Crescent Moon">
+      <light>
+        <color>f6f4db</color>
+        <color>e6baf5</color>
+      </light>
+      <medium>
+        <color>8cbae1</color>
+        <color>8ca0af</color>
+      </medium>
+      <dark>
+        <color>2c6698</color>
+      </dark>
+    </palette>
+    <palette id="17" name="Autumn">
+      <light>
+        <color>fcb6ad</color>
+        <color>fcd4d0</color>
+      </light>
+      <medium>
+        <color>f6f4db</color>
+        <color>f6f4db</color>
+        <color>fb685e</color>
+      </medium>
+    </palette>
+    <palette id ="18" name="Lily Pads">
+      <light>
+        <color>e5f683</color>
+        <color>dee975</color>
+        <color>e8bed2</color>
+      </light>
+      <medium>
+        <color>eb7caf</color>
+        <color>dcf738</color>
+      </medium>
+    </palette>
+    <palette id="19" name="Night Sky">
+      <dark>
+        <color>6f6c8b</color>
+        <color>6b898b</color>
+        <color>684766</color>
+        <color>b67caf</color>
+      </dark>
+      <medium>
+        <color>a3d9a7</color>
+      </medium>
+    </palette>
+    <palette id ="20" name="Serene Beach">
+      <medium>
+        <color>3e786c</color>
+        <color>44a08b</color>
+        <color>02d9ad</color>
+      </medium>
+      <light>
+        <color>fdfccb</color>
+        <color>f0fdcb</color>
+      </light>
+    </palette>
+    <palette id="21" name="Pop of Blue">
+      <medium>
+        <color>e24b67</color>
+        <color>ee476a</color>
+        <color>cd549c</color>
+      </medium>
+      <light>
+        <color>fd7a8f</color>
+        <color>befaef</color>
+      </light>
+    </palette>
+    <palette id="22" name="All Natural">
+      <light>
+        <color>befaef</color>
+        <color>f7a3b3</color>
+        <color>fbb9bd</color>
+        <color>efd6da</color>
+        <color>fdfdfd</color>
+      </light>
+    </palette>
+    <palette id="23" name="Tea in the Garden">
+      <light>
+        <color>fdfab4</color>
+        <color>eef197</color>
+        <color>d7df8c</color>
+      </light>
+      <medium>
+        <color>dda954</color>
+        <color>bcdaf1</color>
+      </medium>
+    </palette>
+    <palette id="24" name="Brown and Blue">
+      <dark>
+        <color>4e3d35</color>
+        <color>1f3c5a</color>
+      </dark>
+      <medium>
+        <color>80532c</color>
+      </medium>
+      <light>
+        <color>80532c</color>
+        <color>e0dadc</color>
+      </light>
+    </palette>
+    <palette id="25" name="In">
+      <dark>
+        <color>191015</color>
+        <color>442723</color>
+      </dark>
+      <medium>
+        <color>a5363d</color>
+        <color>76929d</color>
+        <color>76929d</color>
+      </medium>
+    </palette>
+    <palette id="26" name="Sand">
+      <dark>
+        <color>7f4629</color>
+        <color>ae724d</color>
+      </dark>
+      <medium>
+        <color>b75749</color>
+        <color>d67457</color>
+      </medium>
+      <light>
+        <color>fccca8</color>
+      </light>
+    </palette>
+    <palette id="27" name="Neutral">
+      <dark>
+        <color>32676b</color>
+        <color>5d2f15</color>
+      </dark>
+      <medium>
+        <color>b3441e</color>
+        <color>c5962c</color>
+        <color>b8b2b6</color>
+      </medium>
+    </palette>
+    <palette id="28" name="Spring">
+      <dark>
+        <color>571932</color>
+      </dark>
+      <medium>
+        <color>d91c5c</color>
+        <color>44a280</color>
+      </medium>
+      <light>
+        <color>f4e3ed</color>
+        <color>72c79e</color>
+      </light>
+    </palette>
+    <palette id="29" name="Sea">
+      <dark>
+        <color>154037</color>
+        <color>51622c</color>
+        <color>985b25</color>
+        <color>4c7a70</color>
+      </dark>
+      <medium >
+        <color>71a8af</color>
+      </medium>
+    </palette>
+    <palette id="30" name="Daisy and the Duke">
+      <medium>
+        <color>6d0e3a</color>
+        <color>ffbb17</color>
+      </medium>
+      <light>
+        <color>c4b5b2</color>
+        <color>f5db7e</color>
+        <color>f8f2d0</color>
+      </light>
+    </palette>
+    <palette id ="31" name="Worn Jeans">
+      <dark>
+        <color>4a5d61</color>
+        <color>605444</color>
+        <color>67735f</color>
+      </dark>
+      <medium>
+        <color>aeab8a</color>
+        <color>ac9060</color>
+      </medium>
+    </palette>
+    <palette id ="32" name="Dawn to Dusk">
+      <dark>
+        <color>3f2c42</color>
+        <color>65504b</color>
+      </dark>
+      <medium>
+        <color>a2826d</color>
+        <color>edb26e</color>
+        <color>d77f28</color>
+      </medium>
+    </palette>
+    <palette id ="33" name="Dock">
+      <medium>
+        <color>846c52</color>
+        <color>ac2f67</color>
+        <color>89b898</color>
+      </medium>
+      <light>
+        <color>c7d88a</color>
+        <color>edeea0</color>
+      </light>
+    </palette>
+    <palette id="34" name="Easter Sunday">
+      <medium>
+        <color>851a52</color>
+        <color>a486a0</color>
+      </medium>
+      <light>
+        <color>f0f096</color>
+        <color>f6e9f2</color>
+        <color>f4f5f0</color>
+      </light>
+    </palette>
+    <palette id="35" name="Deep Sea">
+      <dark>
+        <color>0e1527</color>
+        <color>0b2735</color>
+        <color>145453</color>
+      </dark>
+      <light>
+        <color>c4a76f</color>
+        <color>e3d8c2</color>
+      </light>
+    </palette>
+    <palette id="36" name="Bipolar">
+      <medium>
+        <color>75a28b</color>
+        <color>ee2a58</color>
+      </medium>
+      <light>
+        <color>bcbe99</color>
+        <color>f0898a</color>
+        <color>f6c49f</color>
+      </light>
+    </palette>
+    <palette id="37" name="Roses">
+      <medium>
+        <color>b51f45</color>
+        <color>78be42</color>
+      </medium>
+      <light>
+        <color>92c63e</color>
+        <color>f198b8</color>
+        <color>ffffff</color>
+      </light>
+    </palette>
+    <palette id="38" name="RiverBed">
+      <medium>
+        <color>89a4ab</color>
+        <color>685944</color>
+      </medium>
+      <light>
+        <color>ccd9d2</color>
+        <color>827c64</color>
+        <color>cfc5a2</color>
+      </light>
+    </palette>
+    <palette id="39" name="Cherry">
+      <dark>
+        <color>100e13</color>
+        <color>361212</color>
+      </dark>
+      <medium>
+        <color>77a743</color>
+        <color>e31a44</color>
+      </medium>
+      <light>
+        <color>f6eaec</color>
+      </light>
+    </palette>
+    <palette id="40" name="Red">
+      <dark>
+        <color>831532</color>
+        <color>211b25</color>
+        <color>434142</color>
+      </dark>
+      <light>
+        <color>d4e6b2</color>
+        <color>eaf2c3</color>
+      </light>
+    </palette>
+    <palette id="41" name="Sunny Beach">
+      <dark>
+        <color>63402d</color>
+      </dark>
+      <medium>
+        <color>d77c69</color>
+      </medium>
+      <light>
+        <color>efcca2</color>
+        <color>e8e3c5</color>
+        <color>bdded7</color>
+      </light>
+    </palette>
+    <palette id="42" name="TriColor">
+      <dark>
+        <color>1e1d1b</color>
+      </dark>
+      <medium>
+        <color>157d7e</color>
+        <color>bcca37</color>
+        <color>c71e61</color>
+      </medium>
+      <light>
+        <color>f6f5b4</color>
+      </light>
+    </palette>
+    <palette id="43" name="Morning Sky">
+      <dark>
+        <color>473d3e</color>
+        <color>46696f</color>
+      </dark>
+      <medium>
+        <color>3ba098</color>
+        <color>93cd9a</color>
+      </medium>
+      <light>
+        <color>e0eab5</color>
+      </light>
+    </palette>
+    <palette id="44" name="Hue">
+      <dark>
+        <color>512421</color>
+      </dark>
+      <medium>
+        <color>709f8b</color>
+        <color>8cc986</color>
+        <color>f7b257</color>
+        <color>ec685c</color>
+      </medium>
+    </palette>
+    <palette id="45" name="Blue Flame">
+      <dark>
+        <color>436567</color>
+        <color>42192b</color>
+      </dark>
+      <medium>
+        <color>af1f3a</color>
+        <color>ce493a</color>
+      </medium>
+      <light>
+        <color>e5c966</color>
+      </light>
+    </palette>
+    <palette id="46" name="Depths">
+      <dark>
+        <color>0a385c</color>
+        <color>307674</color>
+      </dark>
+      <medium>
+        <color>68b388</color>
+        <color>9fd099</color>
+      </medium>
+      <light>
+        <color>c6df8c</color>
+      </light>
+    </palette>
+    <palette id="47" name="Cooling">
+      <dark>
+        <color>1e1e1e</color>
+      </dark>
+      <medium>
+        <color>382828</color>
+        <color>567275</color>
+      </medium>
+      <light>
+        <color>547073</color>
+        <color>add0d2</color>
+      </light>
+    </palette>
+    <palette id="48" name="Regal">
+      <dark>
+        <color>3b262d</color>
+      </dark>
+      <medium>
+        <color>642c47</color>
+        <color>7b7738</color>
+        <color>917a50</color>
+      </medium>
+      <light>
+        <color>c6ba94</color>
+      </light>
+    </palette>
+    <palette id="49" name="Alien">
+      <dark>
+        <color>1b0d26</color>
+        <color>1a2b3d</color>
+      </dark>
+      <medium>
+        <color>1e734c</color>
+        <color>60a85e</color>
+      </medium>
+      <light>
+        <color>9bc765</color>
+      </light>
+    </palette>
+    <palette id="50" name="Sunrise">
+      <dark>
+        <color>9bc765</color>
+      </dark>
+      <medium>
+        <color>62505e</color>
+        <color>a57076</color>
+      </medium>
+      <easy>
+        <color>eba790</color>
+        <color>f6e1b2</color>
+        <palette id="51" name="Night Sky">
+          <dark>
+            <color>271217</color>
+            <color>200d0f</color>
+          </dark>
+          <medium>
+            <color>36303e</color>
+            <color>48495b</color>
+            <color>8e7d8d</color>
+          </medium>
+        </palette>
+      </easy>
+    </palette>
+  </palettes>
+</Template>
